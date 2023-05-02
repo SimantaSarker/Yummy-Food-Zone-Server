@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const chef=require('./data/chefs.json')
+const chefs=require('./data/chefs.json')
 const port = process.env.PORT || 4000;
 
 app.use(cors());
@@ -11,9 +11,14 @@ res.send("Api is running")
 })
 
 app.get('/chefs',(req,res)=>{
-  res.send(chef);
+  res.send(chefs);
 })
 
+ app.get('/chefs/:id',(req,res)=>{
+  const id=parseInt(req.params.id);
+  const selectedChef=chefs.find(chef=>parseInt(chef.chefId)===id)
+  res.send(selectedChef)
+ })
 
 app.listen(port,()=>{
   console.log(`Dragon API is running not on ${port}`);
