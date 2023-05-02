@@ -6,6 +6,7 @@
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 5000,
+    "description": "John Smith is a professional chef with over 10 years of experience in the culinary industry. He is passionate about creating new and innovative recipes that not only taste delicious but are also visually appealing. John has worked in various restaurants and has gained a reputation for his expertise in Italian cuisine.",
     "recipes":[
       {
         "recipe_id":"1",
@@ -51,6 +52,7 @@
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
     "likes": 6000,
+    "description": "Maria Rodriguez is a talented chef who has been in the industry for over 5 years. She specializes in Latin American cuisine and has a unique talent for blending traditional flavors with modern techniques. Maria has worked in several prestigious restaurants and has won multiple awards for her innovative dishes.",
     "recipes":[
       {
         "recipe_id":"1",
@@ -95,6 +97,7 @@
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 3500,
+    "description": "David Kim is a well-known chef with over 8 years of experience in the industry. He has worked in various countries, including Korea, Japan, and the United States, and has gained extensive knowledge of different cuisines. David's passion for cooking is evident in his dishes, which are a fusion of traditional and modern flavors.",
     "recipes":[
       {
         "recipe_id":"1",
@@ -139,6 +142,7 @@
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
     "likes": 6000,
+    "description": "Amanda Lee is an experienced chef with over 12 years of experience in the culinary industry. She has worked in several renowned restaurants and has gained a reputation for her exquisite dishes. Amanda specializes in French cuisine and has a unique talent for creating dishes that are both elegant and delicious.",
 
     "recipes":[
       {
@@ -184,6 +188,7 @@
     "yearsOfExperience": 6,
     "numberOfRecipes": 25,
     "likes": 1500,
+    "description": "Michael Chen is a talented chef who has been in the industry for over 6 years. He has worked in several prestigious restaurants and has gained extensive knowledge of different cuisines. Michael's passion for cooking is evident in his dishes, which are a fusion of traditional and modern flavors.",
     "recipes":[
       {
         "recipe_id":"1",
@@ -228,6 +233,7 @@
     "yearsOfExperience": 4,
     "numberOfRecipes": 20,
     "likes": 1000,
+    "description": "Sophie Nguyen is a young and talented chef who has been",
     "recipes":[
       {
         "recipe_id":"1",
