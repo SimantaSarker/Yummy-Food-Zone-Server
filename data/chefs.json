@@ -50,6 +50,7 @@
     "chefName": "Maria Rodriguez",
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
+    "likes": 6000,
     "recipes":[
       {
         "recipe_id":"1",
