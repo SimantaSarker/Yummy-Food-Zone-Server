@@ -1,44 +1,45 @@
 [
   {
     "chefId": 1,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "John Smith",
+    "chefPicture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Enrico Crippa",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 5000,
-    "description": "John Smith is a professional chef with over 10 years of experience in the culinary industry. He is passionate about creating new and innovative recipes that not only taste delicious but are also visually appealing. John has worked in various restaurants and has gained a reputation for his expertise in Italian cuisine.",
+    "description": "Crippa is most well-known for his work as the head chef of Piazza Duomo, a three Michelin-starred restaurant located in Alba, Italy. Under his leadership, Piazza Duomo has become one of the most highly-regarded restaurants in Italy and around the world, known for its inventive and modern approach to traditional Italian cuisine.Crippa is known for his focus on local and seasonal ingredients, using only the freshest and highest-quality ingredients available to create his dishes.",
     "recipes":[
       {
         "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipeName": "Tagliatelle with Truffle Butter",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "500g tagliatelle",
+          "ingredients_2": "150g truffle butter",
+          "ingredients_3": "1 cup heavy cream"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "1. Cook tagliatelle in salted water until al dente. 2. Melt truffle butter in a large pan over medium heat. 3. Add heavy cream and stir to combine. 4. Drain tagliatelle and add it to the pan with the sauce. 5. Toss until the tagliatelle is coated in sauce. 6. Serve immediately.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"2",
+        "recipeName": "Osso Buco Milanese",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "4 veal shanks",
+          "ingredients_2": "1 onion, chopped",
+          "ingredients_3": "2 cloves garlic, minced"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "1. Preheat oven to 350 degrees F (175 degrees C). 2. Season veal shanks with salt and pepper. 3. Heat olive oil in a large oven-safe pot over medium-high heat. 4. Brown the veal shanks on all sides, then remove from pot and set aside. 5. Add onion and garlic to the pot and sauté until softened. 6. Add veal shanks back to the pot and pour in enough beef broth to cover the shanks halfway. 7. Add bay leaves and thyme. 8. Cover the pot with a lid and bake in the preheated oven for 2-3 hours, until the meat is tender. 9. Serve with risotto alla Milanese.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"3",
+        "recipeName": "Pizza Margherita",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "1 pizza dough",
+          "ingredients_2": "1/2 cup tomato sauce",
+          "ingredients_3": "8 oz fresh mozzarella cheese, sliced"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+    
+        "cooking_method": "1. Preheat oven to 450 degrees F (230 degrees C). 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce evenly over the dough. 4. Place slices of fresh mozzarella cheese on top of the sauce. 5. Bake in preheated oven for 10-12 minutes, or until crust is golden brown and cheese is melted. 6. Remove from oven and let cool for a few minutes before slicing and serving.",
         "rating": 4.5
       }
 
@@ -47,89 +48,90 @@
   },
   {
     "chefId": 2,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "Maria Rodriguez",
+    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefName": "Massimo Bottura",
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
     "likes": 6000,
-    "description": "Maria Rodriguez is a talented chef who has been in the industry for over 5 years. She specializes in Latin American cuisine and has a unique talent for blending traditional flavors with modern techniques. Maria has worked in several prestigious restaurants and has won multiple awards for her innovative dishes.",
+    "description": "Bottura is best known for his work as the head chef of Osteria Francescana, a three-Michelin-starred restaurant located in Modena, Italy. Under his leadership, Osteria Francescana has become one of the most highly-regarded restaurants in the world, known for its inventive and contemporary approach to traditional Italian cuisine.Bottura is known for his focus on using local and seasonal ingredients to create his dishes, and for his use of avant-garde techniques to transform traditional Italian dishes into innovative and creative works of culinary art.",
     "recipes":[
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"4",
+        "recipeName": "Tortellini in Parmigiano Reggiano Cream",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "200g all-purpose flour",
+          "ingredients_2": "2 large eggs",
+          "ingredients_3": "1/2 cup grated Parmigiano Reggiano cheese"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "1. In a large bowl, mix together flour and eggs until a dough forms. 2. Knead the dough for about 10 minutes, then wrap it in plastic wrap and let it rest for at least 30 minutes. 3. Roll out the dough to a thickness of 1/16 inch. 4. Cut the dough into small squares, then place a small amount of filling in the center of each square. 5. Fold the square in half diagonally to form a triangle, then bring the two corners of the triangle together to form a ring shape. 6. In a large pot of salted boiling water, cook the tortellini for about 3-4 minutes, or until they float to the surface. 7. In a small saucepan, heat up the cream and Parmigiano Reggiano cheese until the cheese has melted and the sauce is smooth. 8. Drain the tortellini and add them to the saucepan with the Parmigiano Reggiano cream. 9. Toss the tortellini in the sauce until coated, then serve immediately.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"5",
+        "recipeName": "Risotto alla Parmigiana",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "1 cup Arborio rice",
+          "ingredients_2": "1 onion, chopped",
+          "ingredients_3": "1/2 cup grated Parmigiano Reggiano cheese"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "1. In a large pot, sauté onion in olive oil until translucent. 2. Add Arborio rice and sauté until the rice is coated in oil and slightly toasted. 3. Gradually add hot chicken or vegetable broth, stirring constantly, until the rice is cooked al dente. 4. Remove from heat and stir in grated Parmigiano Reggiano cheese. 5. Serve immediately.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"6",
+        "recipeName": "Tiramisu",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "6 egg yolks",
+          "ingredients_2": "3/4 cup sugar",
+          "ingredients_3": "1 cup mascarpone cheese"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "1.In a large bowl, beat egg yolks and sugar until pale and creamy. 2. Add mascarpone cheese and beat until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold the egg whites into the mascarpone mixture until",
         "rating": 4.5
       }
 
     ]
   },
+
   {
     "chefId": 3,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "David Kim",
+    "chefPicture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "chefName": "Niko Romito",
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 3500,
-    "description": "David Kim is a well-known chef with over 8 years of experience in the industry. He has worked in various countries, including Korea, Japan, and the United States, and has gained extensive knowledge of different cuisines. David's passion for cooking is evident in his dishes, which are a fusion of traditional and modern flavors.",
+    "description": "Romito is best known for his work as the head chef of Reale, a three-Michelin-starred restaurant located in Castel di Sangro, Italy. Under his leadership, Reale has become one of the most highly-regarded restaurants in Italy and around the world, known for its creative and contemporary approach to traditional Italian cuisine.Romito is known for his focus on using simple and pure flavors to create his dishes, and for his use of innovative techniques to highlight the natural flavors of his ingredients.",
     "recipes":[
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"7",
+        "recipeName": "Spaghetti alla carbonara",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Spaghetti",
+          "ingredients_2": "Pancetta",
+          "ingredients_3": "Eggs"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Boil spaghetti and cook pancetta until crispy. Whisk together eggs and Parmigiano-Reggiano cheese. Mix cooked spaghetti and pancetta with the egg mixture. Serve hot.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"8",
+        "recipeName": "Saltimbocca alla romana",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Veal",
+          "ingredients_2": "Prosciutto",
+          "ingredients_3": "Sage leaves"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Place thin slices of prosciutto and sage leaves on top of veal cutlets. Roll up and secure with toothpicks. Brown in a pan with butter and white wine. Serve hot.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"9",
+        "recipeName": "Tiramisu",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Mascarpone cheese",
+          "ingredients_2": "Eggs",
+          "ingredients_3": "Ladyfingers"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Beat together mascarpone cheese, egg yolks, and sugar. In a separate bowl, beat egg whites until stiff peaks form. Fold egg whites into mascarpone mixture. Dip ladyfingers in coffee and layer with mascarpone mixture. Chill for several hours. Dust with cocoa powder before serving.",
         "rating": 4.5
       }
 
@@ -137,45 +139,45 @@
   },
   {
     "chefId": 4,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "Amanda Lee",
+    "chefPicture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Nadia Santini",
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
     "likes": 6000,
-    "description": "Amanda Lee is an experienced chef with over 12 years of experience in the culinary industry. She has worked in several renowned restaurants and has gained a reputation for her exquisite dishes. Amanda specializes in French cuisine and has a unique talent for creating dishes that are both elegant and delicious.",
+    "description": "Santini is best known for her work as the head chef of Dal Pescatore, a three-Michelin-starred restaurant located in Canneto sull'Oglio, Italy. Under her leadership, Dal Pescatore has become one of the most highly-regarded restaurants in Italy and around the world, known for its focus on traditional Italian cuisine and its commitment to using the freshest and highest-quality ingredients.",
 
     "recipes":[
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"10",
+        "recipeName": "Cotoletta alla milanese",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Veal cutlets",
+          "ingredients_2": "Breadcrumbs",
+          "ingredients_3": "Egg"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Pound veal cutlets until thin. Dip in beaten egg and then in seasoned breadcrumbs. Fry in hot oil until golden brown. Serve hot with lemon wedges.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"11",
+        "recipeName": "Gnocchi alla sorrentina",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Potatoes",
+          "ingredients_2": "Flour",
+          "ingredients_3": "Mozzarella cheese"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Boil potatoes until soft, then mash them. Mix with flour and form into small dumplings. Cook in boiling salted water until they float to the surface. Layer with tomato sauce and mozzarella cheese in a baking dish. Bake until cheese is melted and bubbly. Serve hot.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"12",
+        "recipeName": "Brasato al barolo",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Beef chuck roast",
+          "ingredients_2": "Barolo wine",
+          "ingredients_3": "Carrots"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Brown beef chuck roast in a large pot. Add chopped onions, celery, and carrots and sauté until soft. Pour in Barolo wine and simmer until reduced by half. Add beef broth, tomato paste, and herbs. Cover and cook in the oven until meat is tender. Serve with mashed potatoes.",
         "rating": 4.5
       }
 
@@ -183,44 +185,45 @@
   },
   {
     "chefId": 5,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "Michael Chen",
+    "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+    "chefName": "Stefano Baiocco",
     "yearsOfExperience": 6,
     "numberOfRecipes": 25,
     "likes": 1500,
-    "description": "Michael Chen is a talented chef who has been in the industry for over 6 years. He has worked in several prestigious restaurants and has gained extensive knowledge of different cuisines. Michael's passion for cooking is evident in his dishes, which are a fusion of traditional and modern flavors.",
+    "description": "Baiocco is best known for his work as the head chef of Villa Feltrinelli, a Michelin-starred restaurant located in Gargnano, Italy. Under his leadership, Villa Feltrinelli has become one of the most highly-regarded restaurants in Italy and around the world, known for its innovative and creative approach to Italian cuisine.Baiocco is known for his focus on using the freshest and highest-quality ingredients to create his dishes.",
     "recipes":[
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"13",
+        "recipeName": "Tortelli di zucca",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Butternut squash",
+          "ingredients_2": "Grana Padano cheese",
+          "ingredients_3": "Nutmeg"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Roast butternut squash and mash it. Mix with grated Grana Padano cheese, crumbled amaretti cookies, and spices. Use the mixture to stuff homemade pasta sheets, then cook the tortelli in boiling salted water. Serve with butter and sage sauce.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"14",
+        "recipeName": "Ossobuco alla milanese",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Veal shanks",
+          "ingredients_2": "Tomato",
+          "ingredients_3": "Gremolata"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Dredge veal shanks in flour and brown them in a large pot. Add chopped onions, celery, and carrot and sauté until soft. Pour in white wine and reduce. Add canned tomatoes, beef broth, and herbs. Cover and cook until meat is tender. Serve with gremolata (a mix of lemon zest, garlic, and parsley) and risotto alla milanese.",
+
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"15",
+        "recipeName": "Risotto ai funghi porcini",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Carnaroli rice",
+          "ingredients_2": "Porcini mushrooms",
+          "ingredients_3": "Parmigiano-Reggiano cheese"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Sauté chopped onions in butter until soft. Add sliced porcini mushrooms and cook until tender. Add Carnaroli rice and toast until translucent. Pour in white wine and simmer until evaporated. Add hot chicken broth, one ladle at a time, stirring constantly. When the rice is almost cooked, add grated Parmigiano-Reggiano cheese and stir vigorously. Serve hot.",
         "rating": 4.5
       }
 
@@ -228,44 +231,45 @@
   },
   {
     "chefId": 6,
-    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chefName": "Sophie Nguyen",
+    "chefPicture": "https://plus.unsplash.com/premium_photo-1673830185871-49bb8d6a3d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+    "chefName": "Davide Oldani",
     "yearsOfExperience": 4,
     "numberOfRecipes": 20,
     "likes": 1000,
-    "description": "Sophie Nguyen is a young and talented chef who has been",
+    "description": "Davide Oldani is an acclaimed Italian chef who is known for his innovative and accessible approach to Italian cuisine. He was born in Milan, Italy in 1967, and began his culinary career at a young age, working in various restaurants throughout Italy and Europe.Oldani is best known for his work as the head chef of D'O, a Michelin-starred restaurant located in Cornaredo, Italy",
     "recipes":[
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"16",
+        "recipeName": "Risotto with Gorgonzola cheese",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Carnaroli rice",
+          "ingredients_2": "Gorgonzola cheese",
+          "ingredients_3": "White wine"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Sauté onions in butter until soft. Add Carnaroli rice and toast until translucent. Pour in white wine and simmer until evaporated. Add hot chicken broth, one ladle at a time, stirring constantly. When the rice is almost cooked, add diced Gorgonzola cheese and stir vigorously. Serve hot.",
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"17",
+        "recipeName": "Veal Ossobuco with polenta",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Veal shanks",
+          "ingredients_2": "Tomato",
+          "ingredients_3": "Polenta"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Dredge veal shanks in flour and brown them in a large pot. Add chopped onions, celery, and carrot and sauté until soft. Pour in white wine and reduce. Add canned tomatoes, beef broth, and herbs. Cover and cook until meat is tender. Serve with soft polenta.",
+
         "rating": 4.5
       },
       {
-        "recipe_id":"1",
-        "recipeName": "Spaghetti Bolognese",
+        "recipe_id":"18",
+        "recipeName": "Panettone",
         "ingredients": {
-          "recipe_1": "spaghetti",
-          "recipe_2": "ground beef",
-          "recipe_3": "onion"
+          "ingredients_1": "Flour",
+          "ingredients_2": "Eggs",
+          "ingredients_3": "Candied fruit"
         },
-        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "cooking_method": "Mix flour, eggs, sugar, butter, and yeast in a large bowl. Knead until smooth. Add candied fruit and raisins. Let the dough rise in a warm place for at least 4 hours. Shape the dough into a round loaf and let it rise again. Bake in a preheated oven for 40-50 minutes. Serve sliced.",
         "rating": 4.5
       }
 
