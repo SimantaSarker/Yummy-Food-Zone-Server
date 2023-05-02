@@ -1,0 +1,267 @@
+[
+  {
+    "chefId": 1,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "John Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 5000,
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+   
+  },
+  {
+    "chefId": 2,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Maria Rodriguez",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+  },
+  {
+    "chefId": 3,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "David Kim",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 40,
+    "likes": 3500,
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+  },
+  {
+    "chefId": 4,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Amanda Lee",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 60,
+    "likes": 6000,
+
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+  },
+  {
+    "chefId": 5,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Michael Chen",
+    "yearsOfExperience": 6,
+    "numberOfRecipes": 25,
+    "likes": 1500,
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+  },
+  {
+    "chefId": 6,
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Sophie Nguyen",
+    "yearsOfExperience": 4,
+    "numberOfRecipes": 20,
+    "likes": 1000,
+    "recipes":[
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id":"1",
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": {
+          "recipe_1": "spaghetti",
+          "recipe_2": "ground beef",
+          "recipe_3": "onion"
+        },
+        "cookingMethod": "1. Cook spaghetti according to package instructions.2. In a separate pan, heat olive oil over medium heat. 3. Add onion and garlic and cook until onion is translucent. 4. Add ground beef and cook until browned. 5. Add canned tomatoes, tomato paste, and beef broth. 6. Reduce heat and let simmer for 20-30 minutes. 7. Season with salt and pepper to taste. 8. Serve spaghetti topped with the sauce and grated parmesan cheese.",
+        "rating": 4.5
+      }
+
+    ]
+  }
+]
